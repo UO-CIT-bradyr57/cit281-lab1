@@ -15,7 +15,8 @@ I learned how to install the various software tools required for the class. Afte
 
 ### Sample Code from Project
 
-Below is some sample code from the project, that highlights the main points and functions associated with it. 
+Below is some sample code from the project that highlights the main points and functions associated with it. 
 
+![lab-01-node](https://user-images.githubusercontent.com/105069118/171968217-19bb74fc-952b-422d-9954-977424918e54.png)
 
 ### [Back to the Home Page](http://uo-cit-bradyr57.github.io/bradyr57.github.io/)
